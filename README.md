@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ananthan-bot/Ananthan-bot/main/coding.gif?v=4" width="450" alt="Developer Coding Animation" />
+  <img src="https://raw.githubusercontent.com/ananthan-bot/Ananthan-bot/main/coding.gif?v=5" width="450" alt="Developer Coding Animation" />
 </p>
 
 <p align="center">
