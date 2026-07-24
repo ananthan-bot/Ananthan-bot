@@ -1,11 +1,13 @@
-<h1 align="center">ANANTHAKRISHNAN B</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ananthan-bot/Ananthan-bot/main/title.svg" alt="ANANTHAKRISHNAN B" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ananthan-bot/Ananthan-bot/main/coding.gif?v=4" width="450" alt="Developer Coding Animation" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=550&lines=%E2%9A%A1+Full+Stack+%26+AI+Developer;Continuous+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=%F0%9F%A7%A0+AI+%26+ML+Engineer;%F0%9F%9A%80+Building+Real-World+Apps;%F0%9F%92%AA+Code+%7C+Fitness+%7C+Curiosity;%F0%9F%8C%90+Open+Source+Contributor;%F0%9F%8E%93+CSE+Student+%7C+Learning+Every+Day" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
