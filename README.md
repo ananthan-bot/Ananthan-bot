@@ -2,8 +2,8 @@
 
   <h1>ANANTHAKRISHNAN B</h1>
 
-<!-- Pixel developer coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="pixel developer coding"/>
+<!-- Animated Developer Workspace GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Developer Workspace Animation"/>
 
 <br/><br/>
 
@@ -38,19 +38,3 @@
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Framer](https://img.shields.io/badge/FRAMER-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthan-bot&show_icons=true&theme=radical&hide_border=true" alt="Ananthakrishnan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthan-bot&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthan-bot&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
