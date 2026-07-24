@@ -2,13 +2,13 @@
 
   <h1>ANANTHAKRISHNAN B</h1>
 
-<!-- Animated Developer Workspace GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Developer Workspace Animation"/>
+<!-- Animated Developer GIF -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Coding.gif" width="450" alt="Developer Coding Animation"/>
 
 <br/><br/>
 
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=380&lines=⚡+Full+Stack+%26+AI+Developer;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=500&lines=⚡+Full+Stack+%26+AI+Developer;Continuous+Learner)](https://git.io/typing-svg)
 
 <br/>
 
