@@ -1,7 +1,7 @@
 <h1 align="center">ANANTHAKRISHNAN B</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ananthan-bot/Ananthan-bot/main/coding.gif?v=3" width="450" alt="Developer Coding Animation" />
+  <img src="https://raw.githubusercontent.com/ananthan-bot/Ananthan-bot/main/coding.gif?v=4" width="450" alt="Developer Coding Animation" />
 </p>
 
 <p align="center">
