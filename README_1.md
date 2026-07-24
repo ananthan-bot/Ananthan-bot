@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Ananthakrishnan B 👋</h1>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Developer Coding Animation" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ananthakrishnan-b-459236374"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ananthakrishnanb4222@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/ananthan-bot"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
