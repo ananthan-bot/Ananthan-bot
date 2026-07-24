@@ -1,24 +1,18 @@
-<div align="center">
+<h1 align="center">ANANTHAKRISHNAN B</h1>
 
-  <h1>ANANTHAKRISHNAN B</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450" alt="Developer Coding Animation" />
+</p>
 
-<!-- Animated Developer GIF -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Coding.gif" width="450" alt="Developer Coding Animation"/>
-
-<br/><br/>
-
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=500&lines=⚡+Full+Stack+%26+AI+Developer;Continuous+Learner)](https://git.io/typing-svg)
-
-<br/>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=550&lines=%E2%9A%A1+Full+Stack+%26+AI+Developer;Continuous+Learner" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ananthakrishnan-b-459236374"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ananthakrishnanb4222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/ananthan-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
-
-</div>
 
 ---
 
