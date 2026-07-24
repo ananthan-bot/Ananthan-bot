@@ -1,14 +1,24 @@
+<div align="center">
+
+  <h1>ANANTHAKRISHNAN B</h1>
+
+<!-- Pixel developer coding GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="pixel developer coding"/>
+
+<br/><br/>
+
+<!-- Animated Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=380&lines=⚡+Full+Stack+%26+AI+Developer;Continuous+Learner)](https://git.io/typing-svg)
+
+<br/>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Developer Animation" />
+  <a href="https://www.linkedin.com/in/ananthakrishnan-b-459236374"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ananthakrishnanb4222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/ananthan-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
-<h1 align="center">Hi there, I'm Ananthakrishnan B 👋</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ananthakrishnan-b-459236374"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ananthakrishnanb4222@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/ananthan-bot"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+</div>
 
 ---
 
